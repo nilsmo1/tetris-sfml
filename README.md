@@ -10,17 +10,23 @@ make
 
 ## Color schemes
 Running the binary with `--color <color scheme>` uses the color schemes in `/assets`. The default color scheme is the same as when running with `--color color`.
+
 `./tetris --color white`
+
 ![](assets/white-preview.png)
 
 `./tetris --color color`
+
 ![](assets/previews/color-preview.png)
 
 `./tetris --color tiles`
+
 ![](assets/previews/tiles-minimal-preview.png)
 
 `./tetris --color minimal`
+
 ![](assets/previews/minimal-preview.png)
 
 `./tetris --color light-minimal`
+
 ![](assets/previews/light-minimal-preview.png)
