@@ -13,7 +13,7 @@ Running the binary with `--color <color scheme>` uses the color schemes in `/ass
 
 `./tetris --color white`
 
-![](assets/white-preview.png)
+![](assets/previews/white-preview.png)
 
 `./tetris --color color`
 
@@ -21,7 +21,7 @@ Running the binary with `--color <color scheme>` uses the color schemes in `/ass
 
 `./tetris --color tiles`
 
-![](assets/previews/tiles-minimal-preview.png)
+![](assets/previews/tiles-preview.png)
 
 `./tetris --color minimal`
 
